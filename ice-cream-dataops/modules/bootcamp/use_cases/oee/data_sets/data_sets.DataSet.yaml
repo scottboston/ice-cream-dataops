@@ -1,0 +1,2 @@
+name: Overall Equipment Effectiveness Use use_cases
+externalId: {{ data_pipeline_oee_source_id }}
