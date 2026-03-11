@@ -1,4 +1,4 @@
-externalId: ICAPI Assets3
+externalId: ICAPI Assets
 mapping:
    expression: 'input.map(row => {
       "type": "raw_row",
