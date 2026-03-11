@@ -1,10 +1,10 @@
-externalId: ICAPI Assets
+externalId: ICAPI Assets3
 sourceId: Ice Cream Factory API
-destinationId: ICAPI Assets
+destinationId: ICAPI Assets3
 format:
   type: custom
   encoding: utf8
-  mappingId: ICAPI Assets
+  mappingId: ICAPI Assets3
 config:
   interval: 1d
   path: /site/all/csv
