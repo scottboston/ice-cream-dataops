@@ -1,4 +1,4 @@
-externalId: ICAPI Time series
+externalId: ICAPI Time series3
 mapping:
    expression: 'input.map(row => {
       "type": "node",
